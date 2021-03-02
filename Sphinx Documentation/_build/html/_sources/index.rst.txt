@@ -34,7 +34,7 @@ Welcome to SDI Pipeline's documentation!
         :members: sim, simulation
 
 .. automodule:: sdi_pipeline.sources
-        :members: collate, extract, __init__, reference, source
+        :members: collate, extract, __init__, record, source, reference, test
 
 .. automodule:: sdi_pipeline.subtract
         :members: __init__, subtract
